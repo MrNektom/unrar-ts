@@ -1,2 +1,2 @@
 # unrar-ts
-Simple implemrntation unrar on TypeScript
+Simple implemrntation UNRAR on TypeScript
